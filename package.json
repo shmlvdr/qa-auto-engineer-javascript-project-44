@@ -7,14 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-  "brain-games": "bin/brain-games.js"
-},
+    "brain-games": "bin/brain-games.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shmlvdr/qa-auto-engineer-javascript-project-44.git"
   },
   "author": "shmlvdr",
   "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
   "bugs": {
     "url": "https://github.com/shmlvdr/qa-auto-engineer-javascript-project-44/issues"
   },
