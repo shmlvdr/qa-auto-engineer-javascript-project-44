@@ -7,3 +7,4 @@
 
 https://asciinema.org/a/Lc6XGr3YP1v1KpC1J51MLIkbx // Игра: "Проверка на чётность"
 https://asciinema.org/a/t4QvPSFYsIUOOwcpuDdiwPKF6 // Игра: "Калькулятор"
+https://asciinema.org/a/DpCLbfnWwFObojjSYnPDnaec7 // Игра "НОД"
