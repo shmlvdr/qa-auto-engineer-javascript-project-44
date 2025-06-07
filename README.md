@@ -4,3 +4,6 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=shmlvdr_qa-auto-engineer-javascript-project-44&metric=bugs)](https://sonarcloud.io/summary/new_code?id=shmlvdr_qa-auto-engineer-javascript-project-44)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=shmlvdr_qa-auto-engineer-javascript-project-44&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=shmlvdr_qa-auto-engineer-javascript-project-44)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=shmlvdr_qa-auto-engineer-javascript-project-44&metric=coverage)](https://sonarcloud.io/summary/new_code?id=shmlvdr_qa-auto-engineer-javascript-project-44)
+
+https://asciinema.org/a/Lc6XGr3YP1v1KpC1J51MLIkbx // Игра: "Проверка на чётность"
+https://asciinema.org/a/t4QvPSFYsIUOOwcpuDdiwPKF6 // Игра: "Калькулятор"
