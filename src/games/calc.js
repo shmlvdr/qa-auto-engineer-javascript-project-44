@@ -20,6 +20,9 @@ const getQuestionAndAnswer = () => {
         case '*':
             correctAnswer = num1 * num2;
             break;
+
+        default:
+            throw new Error(`Unsupported operator: ${operator}`);
     }
 
     const question = `${num1} ${operator} ${num2}`;

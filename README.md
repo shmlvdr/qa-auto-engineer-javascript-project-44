@@ -1,3 +1,54 @@
+# QA Auto Engineer JavaScript Project 44
+
+## Description
+The project is designed to automate the verification of knowledge and skills in JavaScript. It includes several games that test your math and logic skills.
+
+## Requirements
+- **Node.js**: Version 14.x and above
+- **Operating system**: Windows, macOS or any Unix-like system
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shmlvdr/qa-auto-engineer-javascript-project-44.git
+
+2. Go to the project directory:
+    cd qa-auto-engineer-javascript-project-44
+
+3. Установите зависимости:
+    npm install
+
+Launching games:
+
+Game: "Parity Check":
+Game: "Calculator": 
+brain-calc
+
+Game: "Parity Check": 
+brain-even
+
+Game "Arithmetic Progression": 
+brain-progression
+
+Game "GCD": 
+brain-gcd
+
+Each command will launch a corresponding game in your terminal.
+
+A demo of the games can be viewed at the links below.
+
+https://asciinema.org/a/Lc6XGr3YP1v1KpC1J51MLIkbx // Game: "Parity Check"
+https://asciinema.org/a/t4QvPSFYsIUOOwcpuDdiwPKF6 // Game: "Calculator"
+https://asciinema.org/a/DpCLbfnWwFObojjSYnPDnaec7 // Game: "GCD"
+https://asciinema.org/a/fPS8CB06ztPA7xrKMrt1EYzIZ // Game: "Arithmetic Progression game"
+https://asciinema.org/a/GkfOTZb5SqjE8coybJFaCL1Gw // Game: "Is a prime number?"
+
+Contribution
+If you have any ideas for improvement, please create a pull request or open an issue.
+
+Feedback
+If you have any questions or problems, you can contact me by email: shmlvdr@example.com
+
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/shmlvdr/qa-auto-engineer-javascript-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/shmlvdr/qa-auto-engineer-javascript-project-44/actions)
@@ -13,10 +64,3 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=shmlvdr_qa-auto-engineer-javascript-project-44&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=shmlvdr_qa-auto-engineer-javascript-project-44)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=shmlvdr_qa-auto-engineer-javascript-project-44&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=shmlvdr_qa-auto-engineer-javascript-project-44)
 
-This project contains 5 games, the dismantling of which can be viewed at the links below:
-
-https://asciinema.org/a/Lc6XGr3YP1v1KpC1J51MLIkbx // Игра: "Проверка на чётность"
-https://asciinema.org/a/t4QvPSFYsIUOOwcpuDdiwPKF6 // Игра: "Калькулятор"
-https://asciinema.org/a/DpCLbfnWwFObojjSYnPDnaec7 // Игра "НОД"
-https://asciinema.org/a/fPS8CB06ztPA7xrKMrt1EYzIZ // Игра "Арифметическая прогрессия"
-https://asciinema.org/a/GkfOTZb5SqjE8coybJFaCL1Gw // Игра "Простое ли число?"
