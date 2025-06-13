@@ -47,7 +47,7 @@ Contribution
 If you have any ideas for improvement, please create a pull request or open an issue.
 
 Feedback
-If you have any questions or problems, you can contact me by email: shmlvdr@example.com
+If you have any questions or problems, you can contact me by email: daria1807@gmail.com
 
 ### Hexlet tests and linter status:
 
