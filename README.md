@@ -37,11 +37,15 @@ Each command will launch a corresponding game in your terminal.
 
 A demo of the games can be viewed at the links below.
 
-https://asciinema.org/a/Lc6XGr3YP1v1KpC1J51MLIkbx // Game: "Parity Check"
-https://asciinema.org/a/t4QvPSFYsIUOOwcpuDdiwPKF6 // Game: "Calculator"
-https://asciinema.org/a/DpCLbfnWwFObojjSYnPDnaec7 // Game: "GCD"
-https://asciinema.org/a/fPS8CB06ztPA7xrKMrt1EYzIZ // Game: "Arithmetic Progression game"
-https://asciinema.org/a/GkfOTZb5SqjE8coybJFaCL1Gw // Game: "Is a prime number?"
+1. [Game: "Parity Check"](https://asciinema.org/a/Lc6XGr3YP1v1KpC1J51MLIkbx)
+
+2. [Game: "Calculator"](https://asciinema.org/a/t4QvPSFYsIUOOwcpuDdiwPKF6)
+
+3. [Game: "GCD"](https://asciinema.org/a/DpCLbfnWwFObojjSYnPDnaec7)
+
+4. [Game: "Arithmetic Progression game"](https://asciinema.org/a/fPS8CB06ztPA7xrKMrt1EYzIZ)
+
+5. [Game: "Is a prime number?"](https://asciinema.org/a/GkfOTZb5SqjE8coybJFaCL1Gw)
 
 Contribution
 If you have any ideas for improvement, please create a pull request or open an issue.
