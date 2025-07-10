@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
-import makeProgression from '../src/games/progression.js'
-makeProgression()
+import runProgression from '../src/games/progression.js'
+runProgression()

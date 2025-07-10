@@ -12,7 +12,7 @@ const gcd = (a, b) => {
   return a
 }
 
-const getQuestionAndAnswer = () => {
+const getTask = () => {
   const num1 = getRandomNumber(1, 100)
   const num2 = getRandomNumber(1, 100)
 
@@ -22,4 +22,4 @@ const getQuestionAndAnswer = () => {
   return [question, String(correctAnswer)]
 }
 
-export default () => runGame(description, getQuestionAndAnswer)
+export default () => runGame(description, getTask)

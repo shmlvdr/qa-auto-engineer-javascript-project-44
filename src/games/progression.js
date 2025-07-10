@@ -3,7 +3,7 @@ import { getRandomNumber } from '../helper.js'
 
 const description = 'What number is missing in the progression?'
 
-const getQuestionAndAnswer = () => {
+const getTask = () => {
   const progressionLength = getRandomNumber(5, 10)
   const start = getRandomNumber(1, 50)
   const step = getRandomNumber(1, 10)
@@ -23,4 +23,4 @@ const getQuestionAndAnswer = () => {
   return [question, String(correctAnswer)]
 }
 
-export default () => runGame(description, getQuestionAndAnswer)
+export default () => runGame(description, getTask)

@@ -15,11 +15,11 @@ const isPrime = (num) => {
   return true
 }
 
-const getQuestionAndAnswer = () => {
+const getTask = () => {
   const question = getRandomNumber(1, 100)
   const correctAnswer = isPrime(question) ? 'yes' : 'no'
 
   return [question, correctAnswer]
 }
 
-export default () => runGame(description, getQuestionAndAnswer)
+export default () => runGame(description, getTask)
