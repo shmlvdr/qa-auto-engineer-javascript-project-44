@@ -35,44 +35,45 @@ The project is designed to automate the verification of knowledge and skills in 
 
 ## Launching games:
 
-1. Game: "Parity Check":
+1. Game: "Evenness Check":
 
-    ```bash
-    brain-prime
+    ```bash 
+    brain-even
 
 2. Game: "Calculator":
 
     ```bash 
     brain-calc
 
-3. Game: "Parity Check":
+3. Game "GCD":
 
     ```bash 
-    brain-even
+    brain-gcd
 
 4. Game "Arithmetic Progression":
 
     ```bash
     brain-progression
 
-5. Game "GCD":
+5. Game: "Is a prime number?":
 
-    ```bash 
-    brain-gcd
+    ```bash
+    brain-prime
 
 Each command will launch a corresponding game in your terminal.
 
 A demo of the games can be viewed at the links below.
 
-1. [Game: "Parity Check"](https://asciinema.org/a/Lc6XGr3YP1v1KpC1J51MLIkbx)
+1. [Game: "Evenness Check"](https://asciinema.org/a/Lc6XGr3YP1v1KpC1J51MLIkbx)
 
 2. [Game: "Calculator"](https://asciinema.org/a/t4QvPSFYsIUOOwcpuDdiwPKF6)
 
 3. [Game: "GCD"](https://asciinema.org/a/DpCLbfnWwFObojjSYnPDnaec7)
 
-4. [Game: "Arithmetic Progression game"](https://asciinema.org/a/fPS8CB06ztPA7xrKMrt1EYzIZ)
+4. [Game: "Arithmetic Progression"](https://asciinema.org/a/fPS8CB06ztPA7xrKMrt1EYzIZ)
 
 5. [Game: "Is a prime number?"](https://asciinema.org/a/GkfOTZb5SqjE8coybJFaCL1Gw)
+
 
 Contribution
 If you have any ideas for improvement, please create a pull request or open an issue.
