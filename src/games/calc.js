@@ -3,29 +3,26 @@ import { getRandomNumber } from '../helper.js'
 
 const description = 'What is the result of the expression?'
 
-const getTask = () => {
-  const num1 = getRandomNumber(1, 10)
-  const num2 = getRandomNumber(1, 10)
-  const operators = ['+', '-', '*']
-  const operator = operators[getRandomNumber(0, operators.length - 1)]
-
-  let correctAnswer
+const calculateExpression = (number1, number2, operator) => {
   switch (operator) {
     case '+':
-      correctAnswer = num1 + num2
-      break
+      return number1 + number2
     case '-':
-      correctAnswer = num1 - num2
-      break
+      return number1 - number2
     case '*':
-      correctAnswer = num1 * num2
-      break
-
+      return number1 * number2
     default:
       throw new Error(`Unsupported operator: ${operator}`)
   }
+}
 
-  const question = `${num1} ${operator} ${num2}`
+const getTask = () => {
+  const firstNumber = getRandomNumber(1, 10)
+  const secondNumber = getRandomNumber(1, 10)
+  const operators = ['+', '-', '*']
+  const operator = operators[getRandomNumber(0, operators.length - 1)]
+  const correctAnswer = calculateExpression(firstNumber, secondNumber, operator)
+  const question = `${firstNumber} ${operator} ${secondNumber}`
   return [question, String(correctAnswer)]
 }
 

@@ -26,24 +26,33 @@ The project is designed to automate the verification of knowledge and skills in 
    git clone https://github.com/shmlvdr/qa-auto-engineer-javascript-project-44.git
 
 2. Go to the project directory:
+    ```bash
     cd qa-auto-engineer-javascript-project-44
 
 3. Установите зависимости:
+    ```bash
     npm install
 
 Launching games:
 
 Game: "Parity Check":
-Game: "Calculator": 
+```bash
+brain-prime
+
+Game: "Calculator":
+```bash 
 brain-calc
 
-Game: "Parity Check": 
+Game: "Parity Check":
+```bash 
 brain-even
 
-Game "Arithmetic Progression": 
+Game "Arithmetic Progression":
+```bash 
 brain-progression
 
-Game "GCD": 
+Game "GCD":
+```bash 
 brain-gcd
 
 Each command will launch a corresponding game in your terminal.
