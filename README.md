@@ -36,24 +36,24 @@ The project is designed to automate the verification of knowledge and skills in 
 Launching games:
 
 Game: "Parity Check":
-```bash
-brain-prime
+    ```bash
+    brain-prime
 
 Game: "Calculator":
-```bash 
-brain-calc
+    ```bash 
+    brain-calc
 
 Game: "Parity Check":
-```bash 
-brain-even
+    ```bash 
+    brain-even
 
 Game "Arithmetic Progression":
-```bash 
-brain-progression
+    ```bash
+    brain-progression
 
 Game "GCD":
-```bash 
-brain-gcd
+    ```bash 
+    brain-gcd
 
 Each command will launch a corresponding game in your terminal.
 
