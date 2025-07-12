@@ -33,25 +33,30 @@ The project is designed to automate the verification of knowledge and skills in 
     ```bash
     npm install
 
-Launching games:
+## Launching games:
 
-Game: "Parity Check":
+1. Game: "Parity Check":
+
     ```bash
     brain-prime
 
-Game: "Calculator":
+2. Game: "Calculator":
+
     ```bash 
     brain-calc
 
-Game: "Parity Check":
+3. Game: "Parity Check":
+
     ```bash 
     brain-even
 
-Game "Arithmetic Progression":
+4. Game "Arithmetic Progression":
+
     ```bash
     brain-progression
 
-Game "GCD":
+5. Game "GCD":
+
     ```bash 
     brain-gcd
 
